@@ -21,4 +21,5 @@ A simple REST API built with Django REST Framework for managing contact form sub
    ```bash
    git clone https://github.com/pradeep398676/DRF-Contact-Us.git
    cd djtest
+Note: Create environment for isolated running project.
 
